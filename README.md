@@ -3,7 +3,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/rm1dev"><img src="https://readme-typing-svg.demolab.com?color=%2359A9FF&center=true&lines=CHIEF+TECHNOLOGY+OFFICER;+ENTERPRISE+SOFTWARE+ARCHITECT;+DEVOPS+&+INFRASTRUCTURE+EXPERT" /></a>
+  <a href="https://github.com/rm1dev"><img src="https://readme-typing-svg.demolab.com?color=%2359A9FF&center=true&lines=CHIEF+TECHNOLOGY+OFFICER;+ENTERPRISE+SOFTWARE+ARCHITECT;+DEVOPS+%26+INFRASTRUCTURE+EXPERT" /></a>
 </p>
 
 ## 📙 Some of my open source projects
